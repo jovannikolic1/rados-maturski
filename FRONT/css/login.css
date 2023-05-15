@@ -1,0 +1,27 @@
+.paragraf{
+    font-size:30px;
+    color: white;
+}
+.ulogujse{
+    margin-right: 200px ;
+    margin-left: 200px;
+    margin-top: 80px;
+    border: 10px;
+    border-color: rgb(255, 0, 0);
+    background-color: gray;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.input{
+    
+    margin-left: 40px;
+    size: 40px;
+    margin-left: 30px;
+}
+.linija{
+    margin-bottom: 15px;
+    margin-top: 15px;
+  display:flex;
+}
